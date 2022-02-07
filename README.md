@@ -1,4 +1,4 @@
-# Reinforcement-Learning-algorithm---Q-Learning
+# Reinforcement Learning Algorithm Implementation
 We use python software and NumPy library to implement the Q-learning method to solve a Reinforcement Learning Problem. 
 Specifically, we solve a transportation problem by using Q-learning algorithm. We train our Agent and evaluate its performance by comparing two cases. 
 To evaluate the Agent’s performance, we define a variable called "Score over time." "Score overtime" is defined as the sum of the rewards divided by
